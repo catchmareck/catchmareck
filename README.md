@@ -27,7 +27,7 @@ I specialize in **web solutions**. I hold an **Engineer's degree** in Informatio
 ### Community
 
 #### Author
-- [Learn Bosque Programming: Discover the world's first regularized programming language](https://www.packtpub.com/programming/learn-bosque-programming) 
+- [Learn Bosque Programming: Boost your productivity and software reliability with Microsoft’s new open-source programming language](https://www.packtpub.com/programming/learn-bosque-programming) 
 
 #### StackOverflow
 <a href="https://stackexchange.com/users/8992458/sebastian-kaczmarek"><img src="https://stackexchange.com/users/flair/8992458.png" width="208" height="58" alt="profile for Sebastian Kaczmarek on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Sebastian Kaczmarek on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
