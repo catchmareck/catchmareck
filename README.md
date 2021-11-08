@@ -4,7 +4,7 @@
 ---
 
 ### About me
-I specialize in **web solutions**. I hold an **Engineer's degree** in Information Technology from the Polish-Japanese Academy of Information Technology. I also have a rich knowledge about Linux and am a **Certified Linux Administrator**. In the projects I was part of, I worked with many technologies such as JavaScript, Node.js, MongoDB, PHP, MySQL, Groovy, Java, Hadoop, HBase, or Angular and REST.
+I specialize in **web solutions**. I hold an **Engineer's degree** in Information Technology from the Polish-Japanese Academy of Information Technology. I also have a rich knowledge about Linux and am a **Certified Linux Administrator**. In the projects I was part of, I worked with many technologies such as JavaScript, Node.js, MongoDB, PHP, MySQL, Groovy, Java, Hadoop, HBase, or Angular and REST. **I also help recruiting IT experts at [TRex IT](https://trex-it.com/)**.
 
 ### Favourite technologies
 <p align=left>
