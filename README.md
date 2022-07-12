@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Sebastian
-###### Senior Fullstack Developer | Team Leader
+###### Senior Fullstack Developer | Tech Lead
 
 ---
 
