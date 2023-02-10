@@ -4,7 +4,7 @@
 ---
 
 ### About me
-I am a co-founder of [MDBS](https://mdbootstrap.com/services/) - a software development company. We specialize in **web solutions**. I hold an **Engineer's degree** in Information Technology from the Polish-Japanese Academy of Information Technology. I also have a rich knowledge about Linux and am a **Certified Linux Administrator**. In the projects I was part of, I worked with many technologies such as JavaScript, Node.js, MongoDB, PHP, MySQL, Groovy, Java, Hadoop, HBase, or Angular and REST.
+I am a co-founder of [MDBS](https://mdbootstrap.com/services/) - a software development company - and an active software engineer. We specialize in **web solutions**. I hold an **Engineer's degree** in Information Technology from the Polish-Japanese Academy of Information Technology. I also have a rich knowledge about Linux and am a **Certified Linux Administrator**. In the projects I was part of, I worked with many technologies such as JavaScript, Node.js, MongoDB, PHP, MySQL, Groovy, Java, Hadoop, HBase, or Angular and REST.
 
 ### Favourite technologies
 <p align=left>
